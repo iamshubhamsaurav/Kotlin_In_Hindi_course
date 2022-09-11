@@ -1,4 +1,13 @@
+/*
+Channel name: BuildWithShubham
+This course is about kotlin
+
+ */
+
+
+
 fun main() {
+    // This is how we create a variable
     var age = 100
     println(age)
     var per = 67.23
@@ -13,7 +22,7 @@ fun main() {
     println(age)
     println(per)
 
-
+// This is how we create a mutable variable
     val num = 10
     println(num)
 
